@@ -1,0 +1,12 @@
+
+string: The string created using String is immutable.
+
+stringbuilder: The string created using StringBuilder is mutable.
+
+string : it requires more memory.
+
+stringbuilder: it requires less memory.
+
+string: an object of the string read only in nature.
+
+stringbuilder: an object of the stringbuilder is dynamic in nature.

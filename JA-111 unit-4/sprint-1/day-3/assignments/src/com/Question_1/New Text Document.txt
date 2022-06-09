@@ -1,0 +1,13 @@
+
+
+Static: 
+	
+	1. Static variables can be accessed using class name.
+	2. Static variables can be accessed by static and non static methods.
+	3. Static variable is like a global variable and is available to all methods.
+
+Non-Static:
+
+	1. Non static variables can be accessed using instance of a class.
+	2. Non static variables cannot be accessed inside a static method.
+	3. Non static variable is like a local variable and they can be accessed through only instance of a class.
